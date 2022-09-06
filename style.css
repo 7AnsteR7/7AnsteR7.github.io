@@ -33,7 +33,7 @@ body {
 .top-info {
 	padding-top: 115px;
 	flex-grow: 1;
-	background: right center no-repeat url(/img/top.png);
+	background: right center no-repeat url(top.png);
 	background-size: 44%;
 }
 
